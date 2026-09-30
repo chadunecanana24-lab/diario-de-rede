@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Diário de Rede</string>
+    <string name="titulo_estado">Estado da ligação</string>
+    <string name="hint_nota">Escreve uma nota sobre a rede</string>
+    <string name="btn_guardar">Guardar nota</string>
+    <string name="btn_ver_notas">Ver notas</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="sem_notas">Ainda não há notas guardadas</string>
+    <string name="titulo_notas">Notas guardadas</string>
+    <string name="estado_wifi">Wi-Fi</string>
+    <string name="estado_movel">Dados móveis</string>
+    <string name="estado_sem">Sem ligação</string>
+    <string name="erro_nota_vazia">Escreve uma nota antes de guardar</string>
+    <string name="nota_guardada">Nota guardada com sucesso</string>
+</resources>
