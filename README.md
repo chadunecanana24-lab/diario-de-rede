@@ -8,7 +8,7 @@
 |-------|------------|
 | **Instituição** | Universidade São Tomás de Moçambique (USTM) |
 | **Curso** | Administração e Sistemas de Informação e Redes |
-| **Turma** | 3L6LASIR 3T |
+| **Turma** | 3L6LASIR 2T |
 | **Tema** | Tema C — Diário de Rede |
 | **Trabalho** | Projecto Prático — Desenvolvimento de Aplicação Android |
 | **Linguagem** | Java |
@@ -21,7 +21,7 @@
 | 1 | Abrão Chiau |
 | 2 | Chadun Assane Canana |
 | 3 | Henriques Lopes |
-| 4 | Eddy |
+| 4 | Jeremias Fernando Chichava  |
 
 ## 1. Descrição da aplicação
 
